@@ -1,6 +1,6 @@
-{
-  "versionCode": 0,
-  "versionName": "0.0.0",
-  "apkUrl": "",
-  "notes": "Инициализация хранилища релизов. Первый настоящий релиз опубликует CI."
+﻿{
+  "versionCode": 213,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/DDmsngr/KOTT-releases/releases/download/v1.0.0-build213/app-release.apk",
+  "notes": "Версия 1.0.0, сборка 213"
 }
