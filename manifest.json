@@ -1,7 +1,7 @@
 {
-  "versionCode": 229,
-  "versionName": "1.4.1",
-  "apkUrl": "https://github.com/DDmsngr/KOTT-releases/releases/download/v1.4.1-build229/app-release.apk",
-  "sha256": "d1c28dd00e01388e2cb75ab60a247ab2dc1533dc80d5fc56dd11a2e41b2e4018",
-  "notes": "Версия 1.4.1, сборка 229"
+  "versionCode": 233,
+  "versionName": "1.4.2",
+  "apkUrl": "https://github.com/DDmsngr/KOTT-releases/releases/download/v1.4.2-build233/app-release.apk",
+  "sha256": "02a45729a0d1df3d4d9009c16b900d58a0bf93cbaee5b59424ea8f3f0eb83307",
+  "notes": "Версия 1.4.2, сборка 233"
 }
