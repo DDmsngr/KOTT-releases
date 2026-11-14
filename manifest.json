@@ -1,7 +1,7 @@
 {
-  "versionCode": 256,
+  "versionCode": 258,
   "versionName": "1.6.3",
-  "apkUrl": "https://github.com/DDmsngr/KOTT-releases/releases/download/v1.6.3-build256/app-release.apk",
-  "sha256": "569d4d97c9491550d911c2104166f852f7d0e28ea8122085639872047f7516c6",
-  "notes": "Версия 1.6.3, сборка 256"
+  "apkUrl": "https://github.com/DDmsngr/KOTT-releases/releases/download/v1.6.3-build258/app-release.apk",
+  "sha256": "2787fe380b0044180686658a3a4bd934b713e63593c774a4283375a1464533c5",
+  "notes": "Версия 1.6.3, сборка 258"
 }
