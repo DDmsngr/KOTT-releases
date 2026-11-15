@@ -1,7 +1,7 @@
 {
-  "versionCode": 259,
-  "versionName": "1.6.4",
-  "apkUrl": "https://github.com/DDmsngr/KOTT-releases/releases/download/v1.6.4-build259/app-release.apk",
-  "sha256": "b47858f94c4980305f95079722b8a85feff2286d4767ff518885f1ef9140e901",
-  "notes": "Версия 1.6.4, сборка 259"
+  "versionCode": 260,
+  "versionName": "1.6.5",
+  "apkUrl": "https://github.com/DDmsngr/KOTT-releases/releases/download/v1.6.5-build260/app-release.apk",
+  "sha256": "3221b39f57b53219fd96e41c51d9ebbc698935e012881982dfca948bcc4249b4",
+  "notes": "Версия 1.6.5, сборка 260"
 }
